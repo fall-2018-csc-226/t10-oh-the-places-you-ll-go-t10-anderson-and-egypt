@@ -3,21 +3,21 @@ Egypt
 Hometown: Bowling Green, KY
 41.156537
 -93.7107200
-Pink
+pink
 Egypt
 Places I've Been: Orlando, Florida
 28.5383
-81.3792
+-81.3792
 blue
 Egypt
-Places I've Been: Santa Claus, Indiana
--
--
+Places I've Been: Indiana
+40.2672
+-86.1349
 blue
 Egypt
 Places I've Been: Washington D.C.
 38.9072
-77.0369
+-77.0369
 blue
 Egypt
 Place I Want to Go: Egypt
@@ -32,22 +32,22 @@ purple
 Egypt
 Place I Want to Go: Alaska
 64.2008
-149.4937
+-149.4937
 purple
 Egypt
 Place I Want to Go: Austrailia
-25.2744
+-25.2744
 133.7751
 purple
 Egypt
 Place I Want to Go: Panama
-8.5380
-80.7821
+-8.5380
+-80.7821
 purple
 Egypt
 Place I Want to Go: Iceland
 64.9631
-19.0208
+-19.0208
 purple
 Anderson
 Hometown: Liberty, SC
@@ -56,39 +56,39 @@ Hometown: Liberty, SC
 yellow
 Anderson
 Places I've Been: New Zealand
-40.9006
+-40.9006
 174.8860
-green
+white
 Anderson
 Places I've Been: Australia
-25.2744
-133.7751
-green
+-33.8688
+151.2093
+white
 Anderson
 Places I've Been: Grand Canyon
 36.0544
-112.1401
-green
+-112.1401
+white
 Anderson
 Places I've Been: Yellow Stone National Park
 44.4280
-110.5885
-green
+-110.5885
+white
 Anderson
 Places I've Been: Glacier National Park
 37.7916
-105.5943
-green
+-105.5943
+white
 Anderson
 Places I've Been: Great Sands National Park
 48.7596
-113.7870
-green
+-113.7870
+white
 Anderson
 Places I've Been: Los Angeles, CA
 34.0522
-118.2437
-green
+-118.2437
+white
 Anderson
 Places I Want to Go: Japan
 36.2048
