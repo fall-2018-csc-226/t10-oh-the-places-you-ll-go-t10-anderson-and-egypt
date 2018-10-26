@@ -1,24 +1,104 @@
-4
-Scott
-Hometown: New Virginia, IA
+20
+Egypt
+Hometown: Bowling Green, KY
 41.156537
 -93.7107200
-darkblue
-Scott
-Awesome city: Edinburgh, Scotland
-55.950190
--3.187550
-lightgreen
-Emily
-Hometown: Pittsburgh, PA
-40.932850
--80.358543
+pink
+Egypt
+Places I've Been: Orlando, Florida
+28.5383
+-81.3792
+blue
+Egypt
+Places I've Been: Indiana
+40.2672
+-86.1349
+blue
+Egypt
+Places I've Been: Washington D.C.
+38.9072
+-77.0369
+blue
+Egypt
+Place I Want to Go: Egypt
+26.8206
+30.8025
+purple
+Egypt
+Place I Want to Go: Nigeria
+9.0820
+8.6753
+purple
+Egypt
+Place I Want to Go: Alaska
+64.2008
+-149.4937
+purple
+Egypt
+Place I Want to Go: Austrailia
+-25.2744
+133.7751
+purple
+Egypt
+Place I Want to Go: Panama
+-8.5380
+-80.7821
+purple
+Egypt
+Place I Want to Go: Iceland
+64.9631
+-19.0208
+purple
+Anderson
+Hometown: Liberty, SC
+34.787330
+-82.696350
+yellow
+Anderson
+Places I've Been: New Zealand
+-40.9006
+174.8860
+white
+Anderson
+Places I've Been: Australia
+-33.8688
+151.2093
+white
+Anderson
+Places I've Been: Grand Canyon
+36.0544
+-112.1401
+white
+Anderson
+Places I've Been: Yellow Stone National Park
+44.4280
+-110.5885
+white
+Anderson
+Places I've Been: Glacier National Park
+37.7916
+-105.5943
+white
+Anderson
+Places I've Been: Great Sands National Park
+48.7596
+-113.7870
+white
+Anderson
+Places I've Been: Los Angeles, CA
+34.0522
+-118.2437
+white
+Anderson
+Places I Want to Go: Japan
+36.2048
+138.2529
 orange
-Emily
-Most Interesting Place: Reykjavik, Iceland
-64.147210
--21.942400
-red
+Anderson
+Places I Want to Go: England
+52.3555
+1.1743
+orange
 
 
 # NOTES:
